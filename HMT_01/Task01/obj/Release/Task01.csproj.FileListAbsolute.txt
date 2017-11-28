@@ -1,0 +1,5 @@
+C:\epam\HMT_01\Task01\bin\Release\Task01.exe.config
+C:\epam\HMT_01\Task01\bin\Release\Task01.exe
+C:\epam\HMT_01\Task01\bin\Release\Task01.pdb
+C:\epam\HMT_01\Task01\obj\Release\Task01.exe
+C:\epam\HMT_01\Task01\obj\Release\Task01.pdb

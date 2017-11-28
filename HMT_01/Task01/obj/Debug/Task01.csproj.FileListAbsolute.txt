@@ -1,0 +1,6 @@
+C:\epam\HMT_01\Task01\bin\Debug\Task01.exe.config
+C:\epam\HMT_01\Task01\bin\Debug\Task01.exe
+C:\epam\HMT_01\Task01\bin\Debug\Task01.pdb
+C:\epam\HMT_01\Task01\obj\Debug\Task01.csprojResolveAssemblyReference.cache
+C:\epam\HMT_01\Task01\obj\Debug\Task01.exe
+C:\epam\HMT_01\Task01\obj\Debug\Task01.pdb
